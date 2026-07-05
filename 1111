@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pacific Aerials | Drone Photography & Videography</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2>Pacific Aerials</h2>
+
+<ul>
+<li><a href="#about">About</a></li>
+<li><a href="#services">Services</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+
+</nav>
+
+<div class="hero">
+
+<video autoplay muted loop playsinline>
+<source src="videos/hero.mp4" type="video/mp4">
+</video>
+
+<div class="overlay"></div>
+
+<div class="hero-text">
+
+<img src="images/logo.png" class="logo">
+
+<h1>See Fiji From A New Perspective</h1>
+
+<p>Professional Drone Photography & Cinematic Videography</p>
+
+<a href="#contact" class="btn">Book Now</a>
+
+</div>
+
+</div>
+
+</header>
+
+<section id="about">
+
+<h2>About Pacific Aerials</h2>
+
+<p>
+
+Based in Labasa, Fiji, Pacific Aerials provides stunning aerial
+photography and cinematic drone videos for resorts, real estate,
+businesses, events and tourism.
+
+We capture every moment from the sky with creativity,
+precision and professional quality.
+
+</p>
+
+</section>
+
+<section id="services">
+
+<h2>Services</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Drone Photography</h3>
+<p>High-quality aerial images.</p>
+</div>
+
+<div class="card">
+<h3>4K Cinematic Videos</h3>
+<p>Professional aerial filming.</p>
+</div>
+
+<div class="card">
+<h3>Real Estate</h3>
+<p>Show properties from the sky.</p>
+</div>
+
+<div class="card">
+<h3>Events</h3>
+<p>Capture unforgettable memories.</p>
+</div>
+
+<div class="card">
+<h3>Tourism & Resorts</h3>
+<p>Promote your destination beautifully.</p>
+</div>
+
+<div class="card">
+<h3>Social Media Content</h3>
+<p>Eye-catching aerial reels and videos.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="portfolio">
+
+<h2>Portfolio</h2>
+
+<div class="gallery">
+
+<video controls>
+<source src="videos/video1.mp4">
+</video>
+
+<video controls>
+<source src="videos/video2.mp4">
+</video>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Book Your Flight</h2>
+
+<p>📍 Labasa, Fiji</p>
+
+<p>📞 +679 835 5344</p>
+
+<p>📧 aymaanraza83@gmail.com</p>
+
+<p>📷 Instagram: @pacific_aerials01</p>
+
+<a href="mailto:aymaanraza83@gmail.com" class="btn">
+Email Us
+</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 Pacific Aerials | All Rights Reserved</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
