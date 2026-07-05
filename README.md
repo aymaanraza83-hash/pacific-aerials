@@ -1,4 +1,4 @@
-# Pacific Aerials - Drone Photography & Videography
+# AIRLENS. FIJI- Drone Photography & Videography
 
 A modern, professional website for Pacific Aerials, showcasing drone photography and cinematic videography services in Fiji.
 
@@ -15,7 +15,7 @@ A modern, professional website for Pacific Aerials, showcasing drone photography
 ## Project Structure
 
 ```
-pacific-aerials/
+Airlens.fiji/
 ├── index.html          # Main HTML file
 ├── style.css           # Styling and responsive design
 ├── script.js           # JavaScript for animations and interactions
@@ -69,8 +69,8 @@ cd pacific-aerials
 📍 Labasa, Fiji  
 📞 +679 835 5344  
 📧 aymaanraza83@gmail.com  
-📷 Instagram: @pacific_aerials01
+📷 Instagram:AIRLENS.FJI
 
 ---
 
-© 2026 Pacific Aerials | All Rights Reserved
+© 2026 AIRLENS.FIJI| All Rights Reserved
